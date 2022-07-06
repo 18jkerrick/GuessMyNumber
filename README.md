@@ -6,3 +6,5 @@ the same as your guess. The highscore is then saved. To play again, just press t
 I used HTML and CSS for the frontend and Javascript for the backend logic.
 
 To play, download the files into a directory and open the index.html in a browser of your choice. 
+
+https://18jkerrick.github.io/GuessMyNumber/
